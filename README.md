@@ -1,2 +1,2 @@
-# practice-problems
-A repo full of JS challenges.
+# code-signal
+A repo full of solutions from [CodeSignal](https://codesignal.com/) problems.
